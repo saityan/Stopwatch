@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Stopwatch</string>
+    <string name="DEFAULT_TIME">00:00:000</string>
+</resources>
